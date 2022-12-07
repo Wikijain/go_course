@@ -13,5 +13,5 @@ func fibbo(n int) int {
 }
 func main() {
 	fmt.Println(greeting("Harsh"))
-	fmt.Println(fibbo(0))
+	fmt.Println(fibbo(10))
 }

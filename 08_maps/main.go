@@ -1,7 +1,5 @@
 package main
 
-import "hash/maphash"
+func main() {
 
-func main() { 
-	BadExmaphash
-    maphash.MapHash}
+}

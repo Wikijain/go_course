@@ -1,0 +1,6 @@
+errorCode,errorMsg
+3,"No match found for PostgreSQL id '911d8ec5-1111-4493-a65f-5ce4abc0c5f4',and Category 'BILLING_ACCOUNT_NOTIFICATIONS'"
+3,"No match found for PostgreSQL id '13ad8a5d-9bae-41f7-99c8-7253f2dd3dfe',and Category 'BILLING_ACCOUNT_NOTIFICATIONS'"
+3,"No match found for PostgreSQL id '85d03740-269c-4ee0-989c-4ff3e91f3290',and Category 'MANDATORY_NOTIFICATIONS'"
+3,"No match found for PostgreSQL id '0945d50c-a872-443f-a894-21f2afcf8c46',and Category 'BILLING_ACCOUNT_EmEx_NOTIFICATIONS'"
+2,No match found for  Category 'MANDATORY_NOTIFICATIONS'
